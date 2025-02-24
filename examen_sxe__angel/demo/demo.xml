@@ -1,0 +1,37 @@
+<odoo>
+    <data>
+      <record id="examen_sxe__angel_demo1" model="examen_sxe__angel.examen_sxe__angel">
+        <field name="name">Miguel</field>
+        <field name="apellidos">Mancuerna Fija</field>
+        <field name="proyecto">Proyecto apasionante sobre mancuernas</field>
+        <field name="tutor">diego_alonso</field>
+        <field name="horas_dia">6</field>
+      </record>
+
+      <record id="examen_sxe__angel_demo2" model="examen_sxe__angel.examen_sxe__angel">
+        <field name="name">Fulgencio</field>
+        <field name="apellidos">Pérez Gómez</field>
+        <field name="proyecto">Una aproximación a la realidad de Skynet</field>
+        <field name="tutor">damian_nogeiras</field>
+        <field name="horas_dia">5</field>
+      </record>
+
+      <record id="examen_sxe__angel_demo3" model="examen_sxe__angel.examen_sxe__angel">
+        <field name="name">Herminia</field>
+        <field name="apellidos">García Martínez</field>
+        <field name="proyecto">Estudio longitudinal sobre las consecuencias
+de abusar de ChatGPT</field>
+        <field name="tutor">manuel_araujo</field>
+        <field name="horas_dia">7</field>
+      </record>
+
+      <record id="examen_sxe__angel_demo4" model="examen_sxe__angel.examen_sxe__angel">
+        <field name="name">Lucrecia</field>
+        <field name="apellidos">Sánchez Fernández</field>
+        <field name="proyecto">Proyecto sobre proyectos dentro de
+proyectos</field>
+        <field name="tutor">sin_tutor</field>
+        <field name="horas_dia">4</field>
+      </record>
+  </data>
+</odoo>
